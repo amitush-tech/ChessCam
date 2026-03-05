@@ -7,7 +7,13 @@
 \____/_/ /_/\___/____/____/\____/\__,_/_/ /_/ /_(_)
 ```
 ***
+# ChessCam ♟️
 
+Computer vision system that detects chess moves from a physical chessboard using YOLO and image processing.
+
+## Contributor
+Amit Butbul  
+Electrical & Computer Engineering Student – Technion
 # ChessCam! using YOLO11 on a physical game to generate realtime move suggestions! 
 
 ## [Watch the demo on YouTube](https://www.youtube.com/watch?v=ubye3jiIMzM) 
